@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Theodore Chen: Canadian grew up from Taiwan
-- Person 2: one sentence about you!
+- Michael Turner: Half Indonesian and half Canadian
 - Person 3: one sentence about you!
 
 ## References
