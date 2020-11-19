@@ -28,5 +28,5 @@ def load_and_process(csv_file):
     df1['Latitude'] = df1.apply(lambda row: float(row.Location.split(" ")[2].split(")")[0]), axis = 1)
     df1['Longitude'] = df1.apply(lambda row: float(row.Location.split(" ")[1].split("(")[1]), axis = 1)
     df1['North_South'] = np.where(df1['Latitude']>=47.2, 'North', 'South')
-    df1['West_East'] = np.where(df1['Longitude']>=120, 'West', 'East')
+    df1['West_East'] = np.where(df1['Longitude']<=-120, 'West', 'East')
     return df1
