@@ -18,7 +18,7 @@ This dataset was provided by data.gov with public access for public interest and
 ## Team Members
 
 - Theodore Chen: Canadian grew up from Taiwan
-- Daven Minhas: "I wanna go fast"
+- Daven Minhas: "Candian born"
 - Michael Turner: Half Indonesian and half Canadian
 
 ## References
