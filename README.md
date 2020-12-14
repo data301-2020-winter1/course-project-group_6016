@@ -24,3 +24,7 @@ This dataset was provided by data.gov with public access for public interest and
 ## References
 
 {Add your stuff here}
+
+## Videos
+
+Milestone 4 was presented in class. Recording of presentation can be found in Zoom recordings [here](https://canvas.ubc.ca/courses/63469/external_tools/15408)
